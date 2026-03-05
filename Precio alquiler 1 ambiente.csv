@@ -1,0 +1,342 @@
+Barrio;Anio;Trimestre;Valor;Ambientes
+Almagro;2018;1;7779.6;1
+Balvanera;2018;1;6788.39;1
+Belgrano;2018;1;8089.21;1
+Caballito;2018;1;7679.91;1
+Flores;2018;1;6718.51;1
+Núñez;2018;1;;1
+Palermo;2018;1;8642.65;1
+Recoleta;2018;1;8554.8;1
+San Nicolás;2018;1;7200.34;1
+Villa Crespo;2018;1;8066.19;1
+Villa Urquiza;2018;1;7264.29;1
+Almagro;2018;2;7760.71;1
+Balvanera;2018;2;7222.15;1
+Belgrano;2018;2;8842.8;1
+Caballito;2018;2;7930;1
+Flores;2018;2;7213.39;1
+Núñez;2018;2;9739.76;1
+Palermo;2018;2;9860.96;1
+Recoleta;2018;2;8894.95;1
+San Nicolás;2018;2;7921.88;1
+Villa Crespo;2018;2;8416.16;1
+Villa Urquiza;2018;2;8157.49;1
+Almagro;2018;3;9109.87;1
+Balvanera;2018;3;;1
+Belgrano;2018;3;9167.43;1
+Caballito;2018;3;8365.38;1
+Flores;2018;3;7457.37;1
+Núñez;2018;3;;1
+Palermo;2018;3;10120.16;1
+Recoleta;2018;3;9598.84;1
+San Nicolás;2018;3;;1
+Villa Crespo;2018;3;8954.45;1
+Villa Urquiza;2018;3;8674.27;1
+Almagro;2018;4;9892.53;1
+Balvanera;2018;4;8819.89;1
+Belgrano;2018;4;10624.85;1
+Caballito;2018;4;9007.2;1
+Flores;2018;4;8420.99;1
+Núñez;2018;4;;1
+Palermo;2018;4;10960.89;1
+Recoleta;2018;4;10286.7;1
+San Nicolás;2018;4;9109.95;1
+Villa Crespo;2018;4;9920.45;1
+Villa Urquiza;2018;4;9645.03;1
+Almagro;2019;1;10442.35;1
+Balvanera;2019;1;9679.14;1
+Belgrano;2019;1;11596.03;1
+Caballito;2019;1;9454.36;1
+Flores;2019;1;9162.48;1
+Núñez;2019;1;11026.24;1
+Palermo;2019;1;11716.84;1
+Recoleta;2019;1;11275.72;1
+San Nicolás;2019;1;9753.71;1
+Villa Crespo;2019;1;10475.81;1
+Villa Urquiza;2019;1;10188.38;1
+Almagro;2019;2;11145.91;1
+Balvanera;2019;2;10242.11;1
+Belgrano;2019;2;12395.89;1
+Caballito;2019;2;10620.39;1
+Flores;2019;2;9655.72;1
+Núñez;2019;2;11851.21;1
+Palermo;2019;2;12994.96;1
+Recoleta;2019;2;12187.46;1
+San Nicolás;2019;2;9876.29;1
+Villa Crespo;2019;2;10981.63;1
+Villa Urquiza;2019;2;10701.02;1
+Almagro;2019;3;12065.42;1
+Balvanera;2019;3;11031.97;1
+Belgrano;2019;3;13287.67;1
+Caballito;2019;3;12054.22;1
+Flores;2019;3;10617.98;1
+Núñez;2019;3;13478.64;1
+Palermo;2019;3;13303.36;1
+Recoleta;2019;3;12838.4;1
+San Nicolás;2019;3;10685.6;1
+Villa Crespo;2019;3;12433.64;1
+Villa Urquiza;2019;3;11507.01;1
+Almagro;2019;4;12740.4;1
+Balvanera;2019;4;12073.72;1
+Belgrano;2019;4;14567.54;1
+Caballito;2019;4;12709.96;1
+Flores;2019;4;11267.94;1
+Núñez;2019;4;14524.78;1
+Palermo;2019;4;14134.46;1
+Recoleta;2019;4;13607.32;1
+San Nicolás;2019;4;11882.47;1
+Villa Crespo;2019;4;13555.83;1
+Villa Urquiza;2019;4;12361.21;1
+Almagro;2020;1;13217.29;1
+Balvanera;2020;1;13003.15;1
+Belgrano;2020;1;16451.89;1
+Caballito;2020;1;14197.35;1
+Flores;2020;1;11498.77;1
+Núñez;2020;1;;1
+Palermo;2020;1;15764.44;1
+Recoleta;2020;1;15400.98;1
+San Nicolás;2020;1;11822.66;1
+Villa Crespo;2020;1;15071.43;1
+Villa Urquiza;2020;1;13832.2;1
+Almagro;2020;2;14803;1
+Balvanera;2020;2;14685.1;1
+Belgrano;2020;2;17236.6;1
+Caballito;2020;2;14656.47;1
+Flores;2020;2;;1
+Núñez;2020;2;;1
+Palermo;2020;2;17699.44;1
+Recoleta;2020;2;17515.83;1
+San Nicolás;2020;2;12993.75;1
+Villa Crespo;2020;2;16129.37;1
+Villa Urquiza;2020;2;15228.61;1
+Almagro;2020;3;18021.46;1
+Balvanera;2020;3;16679.64;1
+Belgrano;2020;3;19451.49;1
+Caballito;2020;3;17550.82;1
+Flores;2020;3;15805.42;1
+Núñez;2020;3;19493.91;1
+Palermo;2020;3;19313.38;1
+Recoleta;2020;3;18059.5;1
+San Nicolás;2020;3;15213.74;1
+Villa Crespo;2020;3;18470.07;1
+Villa Urquiza;2020;3;17706.15;1
+Almagro;2020;4;20034.93;1
+Balvanera;2020;4;18021.64;1
+Belgrano;2020;4;21085.49;1
+Caballito;2020;4;20400;1
+Flores;2020;4;;1
+Núñez;2020;4;20661.5;1
+Palermo;2020;4;21275.09;1
+Recoleta;2020;4;19613.53;1
+San Nicolás;2020;4;17554.79;1
+Villa Crespo;2020;4;19598.02;1
+Villa Urquiza;2020;4;20338.29;1
+Almagro;2021;1;22618.02;1
+Balvanera;2021;1;19417.74;1
+Belgrano;2021;1;22529.18;1
+Caballito;2021;1;22649.13;1
+Flores;2021;1;20622.97;1
+Núñez;2021;1;23580.69;1
+Palermo;2021;1;23127.1;1
+Recoleta;2021;1;22200.47;1
+San Nicolás;2021;1;19421.39;1
+Villa Crespo;2021;1;22020.11;1
+Villa Urquiza;2021;1;21800.13;1
+Almagro;2021;2;25054.01;1
+Balvanera;2021;2;20649.69;1
+Belgrano;2021;2;25752.09;1
+Caballito;2021;2;25281.04;1
+Flores;2021;2;22672.59;1
+Núñez;2021;2;26589.95;1
+Palermo;2021;2;26518.47;1
+Recoleta;2021;2;24949.06;1
+San Nicolás;2021;2;20842.86;1
+Villa Crespo;2021;2;26001.72;1
+Villa Urquiza;2021;2;26668.57;1
+Almagro;2021;3;26591.43;1
+Balvanera;2021;3;24409.81;1
+Belgrano;2021;3;29378.14;1
+Caballito;2021;3;27248.93;1
+Flores;2021;3;25899.61;1
+Núñez;2021;3;31242.6;1
+Palermo;2021;3;29495.17;1
+Recoleta;2021;3;27079.97;1
+San Nicolás;2021;3;22827.09;1
+Villa Crespo;2021;3;27390.84;1
+Villa Urquiza;2021;3;27437.13;1
+Almagro;2021;4;30142.86;1
+Balvanera;2021;4;26175.93;1
+Belgrano;2021;4;32223.95;1
+Caballito;2021;4;30187.5;1
+Flores;2021;4;29208.12;1
+Núñez;2021;4;34009.5;1
+Palermo;2021;4;31548.53;1
+Recoleta;2021;4;29663.71;1
+San Nicolás;2021;4;24595.48;1
+Villa Crespo;2021;4;30365.48;1
+Villa Urquiza;2021;4;30492.41;1
+Almagro;2022;1;35778.79;1
+Balvanera;2022;1;30887.68;1
+Belgrano;2022;1;39416.57;1
+Caballito;2022;1;34282.77;1
+Flores;2022;1;31208.16;1
+Núñez;2022;1;;1
+Palermo;2022;1;36313.67;1
+Recoleta;2022;1;35151.14;1
+San Nicolás;2022;1;30490.44;1
+Villa Crespo;2022;1;;1
+Villa Urquiza;2022;1;34954.26;1
+Almagro;2022;2;39318.18;1
+Balvanera;2022;2;37027.03;1
+Belgrano;2022;2;49420.53;1
+Caballito;2022;2;41984.44;1
+Flores;2022;2;;1
+Núñez;2022;2;;1
+Palermo;2022;2;46466.17;1
+Recoleta;2022;2;42147.24;1
+San Nicolás;2022;2;;1
+Villa Crespo;2022;2;;1
+Villa Urquiza;2022;2;41144.76;1
+Almagro;2022;3;48198.1;1
+Balvanera;2022;3;;1
+Belgrano;2022;3;;1
+Caballito;2022;3;48759.79;1
+Flores;2022;3;;1
+Núñez;2022;3;;1
+Palermo;2022;3;54407.82;1
+Recoleta;2022;3;52419.95;1
+San Nicolás;2022;3;;1
+Villa Crespo;2022;3;52804.76;1
+Villa Urquiza;2022;3;48408.14;1
+Almagro;2022;4;;1
+Balvanera;2022;4;;1
+Belgrano;2022;4;66390.37;1
+Caballito;2022;4;59865.02;1
+Flores;2022;4;;1
+Núñez;2022;4;;1
+Palermo;2022;4;66913.58;1
+Recoleta;2022;4;65724.88;1
+San Nicolás;2022;4;53348.62;1
+Villa Crespo;2022;4;;1
+Villa Urquiza;2022;4;59611.87;1
+Almagro;2023;1;77541.53;1
+Balvanera;2023;1;;1
+Belgrano;2023;1;;1
+Caballito;2023;1;73004.54;1
+Flores;2023;1;;1
+Núñez;2023;1;;1
+Palermo;2023;1;86281.25;1
+Recoleta;2023;1;82500;1
+San Nicolás;2023;1;69676.17;1
+Villa Crespo;2023;1;;1
+Villa Urquiza;2023;1;83549.22;1
+Almagro;2023;2;107810.66;1
+Balvanera;2023;2;;1
+Belgrano;2023;2;114087.14;1
+Caballito;2023;2;105081.97;1
+Flores;2023;2;;1
+Núñez;2023;2;;1
+Palermo;2023;2;118872.65;1
+Recoleta;2023;2;97330.32;1
+San Nicolás;2023;2;;1
+Villa Crespo;2023;2;;1
+Villa Urquiza;2023;2;110677.08;1
+Almagro;2023;3;;1
+Balvanera;2023;3;;1
+Belgrano;2023;3;;1
+Caballito;2023;3;166871.23;1
+Flores;2023;3;;1
+Núñez;2023;3;;1
+Palermo;2023;3;194066.27;1
+Recoleta;2023;3;166866.29;1
+San Nicolás;2023;3;;1
+Villa Crespo;2023;3;179140.13;1
+Villa Urquiza;2023;3;164364.21;1
+Almagro;2023;4;210263.16;1
+Balvanera;2023;4;216853.93;1
+Belgrano;2023;4;265233.64;1
+Caballito;2023;4;232223.68;1
+Flores;2023;4;203595.51;1
+Núñez;2023;4;270109.69;1
+Palermo;2023;4;289591.14;1
+Recoleta;2023;4;248482.61;1
+San Nicolás;2023;4;;1
+Villa Crespo;2023;4;249069.77;1
+Villa Urquiza;2023;4;246537.68;1
+Almagro;2024;1;268265.35;1
+Balvanera;2024;1;256536.99;1
+Belgrano;2024;1;301984.02;1
+Caballito;2024;1;277842.46;1
+Flores;2024;1;238558.79;1
+Núñez;2024;1;294696.13;1
+Palermo;2024;1;322704.57;1
+Recoleta;2024;1;289720.81;1
+San Nicolás;2024;1;252339.74;1
+Villa Crespo;2024;1;280438.65;1
+Villa Urquiza;2024;1;275455.12;1
+Almagro;2024;2;293104.85;1
+Balvanera;2024;2;271714.77;1
+Belgrano;2024;2;318617.49;1
+Caballito;2024;2;298492.79;1
+Flores;2024;2;262184.21;1
+Núñez;2024;2;324263.36;1
+Palermo;2024;2;327685.45;1
+Recoleta;2024;2;317041.51;1
+San Nicolás;2024;2;264580.76;1
+Villa Crespo;2024;2;289402.51;1
+Villa Urquiza;2024;2;290083.97;1
+Almagro;2024;3;320702.02;1
+Balvanera;2024;3;306852.72;1
+Belgrano;2024;3;360503.88;1
+Caballito;2024;3;323325.61;1
+Flores;2024;3;285666.48;1
+Núñez;2024;3;353459.51;1
+Palermo;2024;3;363800.1;1
+Recoleta;2024;3;341100.04;1
+San Nicolás;2024;3;306840.06;1
+Villa Crespo;2024;3;332968.89;1
+Villa Urquiza;2024;3;324907.6;1
+Almagro;2024;4;356484.75;1
+Balvanera;2024;4;333382.43;1
+Belgrano;2024;4;390025.67;1
+Caballito;2024;4;360092.39;1
+Flores;2024;4;310470.87;1
+Núñez;2024;4;391995.16;1
+Palermo;2024;4;387866.36;1
+Recoleta;2024;4;366026.77;1
+San Nicolás;2024;4;317364.3;1
+Villa Crespo;2024;4;379900.65;1
+Villa Urquiza;2024;4;362391.9;1
+Almagro;2025;1;401996.79;1
+Balvanera;2025;1;380969;1
+Belgrano;2025;1;410945.25;1
+Caballito;2025;1;398580.27;1
+Flores;2025;1;369885.3;1
+Núñez;2025;1;414632.27;1
+Palermo;2025;1;436750.5;1
+Recoleta;2025;1;407982.31;1
+San Nicolás;2025;1;374835.8;1
+Villa Crespo;2025;1;398234.88;1
+Villa Urquiza;2025;1;389415.02;1
+Almagro;2025;2;419303.42;1
+Balvanera;2025;2;388162.87;1
+Belgrano;2025;2;464819.07;1
+Caballito;2025;2;421670.65;1
+Flores;2025;2;405779.75;1
+Núñez;2025;2;457290.13;1
+Palermo;2025;2;463474.2;1
+Recoleta;2025;2;441312.74;1
+San Nicolás;2025;2;393521.48;1
+Villa Crespo;2025;2;425367.85;1
+Villa Urquiza;2025;2;413525.5;1
+Almagro;2025;3;451433.41;1
+Balvanera;2025;3;405134.04;1
+Belgrano;2025;3;508880.66;1
+Caballito;2025;3;453034.95;1
+Flores;2025;3;418243.28;1
+Núñez;2025;3;495715.72;1
+Palermo;2025;3;491731.84;1
+Recoleta;2025;3;466873.48;1
+San Nicolás;2025;3;431198.99;1
+Villa Crespo;2025;3;461683.97;1
+Villa Urquiza;2025;3;445771.4;1

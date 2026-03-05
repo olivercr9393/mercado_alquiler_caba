@@ -1,0 +1,590 @@
+Barrio;Año;Trimestre;Valor;Ambientes
+Almagro;2018;1;9598.35;2
+Balvanera;2018;1;8957.68;2
+Belgrano;2018;1;11121.47;2
+Boedo;2018;1;;2
+Caballito;2018;1;9356;2
+Colegiales;2018;1;10643.17;2
+Flores;2018;1;8939.68;2
+Montserrat;2018;1;9153.86;2
+Núñez;2018;1;11421.16;2
+Palermo;2018;1;12151.83;2
+Parque Chacabuco;2018;1;9802.66;2
+Recoleta;2018;1;11211.16;2
+Retiro;2018;1;10871.02;2
+San Cristobal;2018;1;8822.32;2
+San Nicolás;2018;1;8486.58;2
+Villa Crespo;2018;1;10018.37;2
+Villa del Parque;2018;1;8724.66;2
+Villa Devoto;2018;1;9291.12;2
+Villa Urquiza;2018;1;10664.78;2
+Almagro;2018;2;10415.81;2
+Balvanera;2018;2;9307.17;2
+Belgrano;2018;2;11883.32;2
+Boedo;2018;2;10163.64;2
+Caballito;2018;2;10381.89;2
+Colegiales;2018;2;12576.86;2
+Flores;2018;2;9501.33;2
+Montserrat;2018;2;9726.45;2
+Núñez;2018;2;12905.08;2
+Palermo;2018;2;13048.81;2
+Parque Chacabuco;2018;2;9836.67;2
+Recoleta;2018;2;12056.54;2
+Retiro;2018;2;;2
+San Cristobal;2018;2;9571.74;2
+San Nicolás;2018;2;9799.05;2
+Villa Crespo;2018;2;10903.57;2
+Villa del Parque;2018;2;9725.66;2
+Villa Devoto;2018;2;9615.4;2
+Villa Urquiza;2018;2;11642.1;2
+Almagro;2018;3;11200.29;2
+Balvanera;2018;3;10510.94;2
+Belgrano;2018;3;13042.8;2
+Boedo;2018;3;;2
+Caballito;2018;3;11245.83;2
+Colegiales;2018;3;12640.7;2
+Flores;2018;3;10049;2
+Montserrat;2018;3;9908.09;2
+Núñez;2018;3;13344.44;2
+Palermo;2018;3;13875.81;2
+Parque Chacabuco;2018;3;;2
+Recoleta;2018;3;12703.12;2
+Retiro;2018;3;;2
+San Cristobal;2018;3;10331.26;2
+San Nicolás;2018;3;10833.05;2
+Villa Crespo;2018;3;12267.94;2
+Villa del Parque;2018;3;10048.85;2
+Villa Devoto;2018;3;11557.12;2
+Villa Urquiza;2018;3;12348.46;2
+Almagro;2018;4;12241.33;2
+Balvanera;2018;4;11887.43;2
+Belgrano;2018;4;13802.24;2
+Boedo;2018;4;11629.83;2
+Caballito;2018;4;12156.34;2
+Colegiales;2018;4;13267.07;2
+Flores;2018;4;11135.67;2
+Montserrat;2018;4;11760.6;2
+Núñez;2018;4;13613.93;2
+Palermo;2018;4;14205.11;2
+Parque Chacabuco;2018;4;11718.61;2
+Recoleta;2018;4;13404.31;2
+Retiro;2018;4;;2
+San Cristobal;2018;4;11086.1;2
+San Nicolás;2018;4;11604.6;2
+Villa Crespo;2018;4;12510.21;2
+Villa del Parque;2018;4;10938.44;2
+Villa Devoto;2018;4;12555.62;2
+Villa Urquiza;2018;4;13078.6;2
+Almagro;2019;1;13189.7;2
+Balvanera;2019;1;12855.79;2
+Belgrano;2019;1;14773.72;2
+Boedo;2019;1;12369.08;2
+Caballito;2019;1;13022.02;2
+Colegiales;2019;1;14641.74;2
+Flores;2019;1;11643.64;2
+Montserrat;2019;1;;2
+Núñez;2019;1;15264.68;2
+Palermo;2019;1;16198.76;2
+Parque Chacabuco;2019;1;12720.71;2
+Recoleta;2019;1;14683.17;2
+Retiro;2019;1;14455.32;2
+San Cristobal;2019;1;11965.76;2
+San Nicolás;2019;1;11682.15;2
+Villa Crespo;2019;1;14003.3;2
+Villa del Parque;2019;1;11971.31;2
+Villa Devoto;2019;1;13056.6;2
+Villa Urquiza;2019;1;14314.95;2
+Almagro;2019;2;13898.11;2
+Balvanera;2019;2;12788.91;2
+Belgrano;2019;2;15982.04;2
+Boedo;2019;2;13055.01;2
+Caballito;2019;2;13610.51;2
+Colegiales;2019;2;16153.27;2
+Flores;2019;2;12597.08;2
+Montserrat;2019;2;13396.32;2
+Núñez;2019;2;16558.93;2
+Palermo;2019;2;17009.2;2
+Parque Chacabuco;2019;2;13767.62;2
+Recoleta;2019;2;15908.47;2
+Retiro;2019;2;16102.05;2
+San Cristobal;2019;2;13899.93;2
+San Nicolás;2019;2;12258.84;2
+Villa Crespo;2019;2;14846.17;2
+Villa del Parque;2019;2;13280.99;2
+Villa Devoto;2019;2;13988.21;2
+Villa Urquiza;2019;2;14709.92;2
+Almagro;2019;3;15231.8;2
+Balvanera;2019;3;14344.37;2
+Belgrano;2019;3;16963.85;2
+Boedo;2019;3;13738.39;2
+Caballito;2019;3;14932.39;2
+Colegiales;2019;3;16739.82;2
+Flores;2019;3;13300.39;2
+Montserrat;2019;3;13854.12;2
+Núñez;2019;3;17628.5;2
+Palermo;2019;3;18428.62;2
+Parque Chacabuco;2019;3;14860.29;2
+Recoleta;2019;3;16799.12;2
+Retiro;2019;3;15944.05;2
+San Cristobal;2019;3;;2
+San Nicolás;2019;3;13810.36;2
+Villa Crespo;2019;3;15953.62;2
+Villa del Parque;2019;3;14240.55;2
+Villa Devoto;2019;3;15072.62;2
+Villa Urquiza;2019;3;16401.31;2
+Almagro;2019;4;16101.2;2
+Balvanera;2019;4;15481.16;2
+Belgrano;2019;4;17938.84;2
+Boedo;2019;4;14853.69;2
+Caballito;2019;4;16329.99;2
+Colegiales;2019;4;17851.34;2
+Flores;2019;4;14369.67;2
+Montserrat;2019;4;;2
+Núñez;2019;4;18121.66;2
+Palermo;2019;4;19365.14;2
+Parque Chacabuco;2019;4;15407.98;2
+Recoleta;2019;4;18464.73;2
+Retiro;2019;4;17034.08;2
+San Cristobal;2019;4;15140.36;2
+San Nicolás;2019;4;15013.8;2
+Villa Crespo;2019;4;16440.73;2
+Villa del Parque;2019;4;14866.29;2
+Villa Devoto;2019;4;15857.75;2
+Villa Urquiza;2019;4;17231.36;2
+Almagro;2020;1;17125.74;2
+Balvanera;2020;1;15989.73;2
+Belgrano;2020;1;19384.83;2
+Boedo;2020;1;16484.2;2
+Caballito;2020;1;17219.61;2
+Colegiales;2020;1;18854.89;2
+Flores;2020;1;16223.98;2
+Montserrat;2020;1;16592.11;2
+Núñez;2020;1;19522.43;2
+Palermo;2020;1;20943.83;2
+Parque Chacabuco;2020;1;16839.16;2
+Recoleta;2020;1;19826.25;2
+Retiro;2020;1;17787.93;2
+San Cristobal;2020;1;15908.2;2
+San Nicolás;2020;1;15896.24;2
+Villa Crespo;2020;1;19629.79;2
+Villa del Parque;2020;1;16017.37;2
+Villa Devoto;2020;1;17601.29;2
+Villa Urquiza;2020;1;18273.89;2
+Almagro;2020;2;19330.13;2
+Balvanera;2020;2;17830.37;2
+Belgrano;2020;2;20824.27;2
+Boedo;2020;2;;2
+Caballito;2020;2;18474.6;2
+Colegiales;2020;2;21775.17;2
+Flores;2020;2;16892.05;2
+Montserrat;2020;2;17342.88;2
+Núñez;2020;2;21606.65;2
+Palermo;2020;2;23648.15;2
+Parque Chacabuco;2020;2;;2
+Recoleta;2020;2;21481.24;2
+Retiro;2020;2;19573.22;2
+San Cristobal;2020;2;;2
+San Nicolás;2020;2;;2
+Villa Crespo;2020;2;21245.05;2
+Villa del Parque;2020;2;18882.96;2
+Villa Devoto;2020;2;20220.76;2
+Villa Urquiza;2020;2;20384.67;2
+Almagro;2020;3;22976.3;2
+Balvanera;2020;3;21398.41;2
+Belgrano;2020;3;25071.62;2
+Boedo;2020;3;;2
+Caballito;2020;3;23156.08;2
+Colegiales;2020;3;25070.39;2
+Flores;2020;3;20958.98;2
+Montserrat;2020;3;22026.69;2
+Núñez;2020;3;26069.16;2
+Palermo;2020;3;25900.7;2
+Parque Chacabuco;2020;3;;2
+Recoleta;2020;3;23869.36;2
+Retiro;2020;3;22872.6;2
+San Cristobal;2020;3;22189.75;2
+San Nicolás;2020;3;19770.45;2
+Villa Crespo;2020;3;22309.74;2
+Villa del Parque;2020;3;22257.3;2
+Villa Devoto;2020;3;24016.27;2
+Villa Urquiza;2020;3;25801.56;2
+Almagro;2020;4;24849.14;2
+Balvanera;2020;4;22966.11;2
+Belgrano;2020;4;28135.91;2
+Boedo;2020;4;25522.87;2
+Caballito;2020;4;25323.96;2
+Colegiales;2020;4;27991.27;2
+Flores;2020;4;23933.29;2
+Montserrat;2020;4;22409.69;2
+Núñez;2020;4;29576.12;2
+Palermo;2020;4;28655.73;2
+Parque Chacabuco;2020;4;;2
+Recoleta;2020;4;25933.27;2
+Retiro;2020;4;24235.06;2
+San Cristobal;2020;4;24442.28;2
+San Nicolás;2020;4;22794.14;2
+Villa Crespo;2020;4;25386.43;2
+Villa del Parque;2020;4;24064.03;2
+Villa Devoto;2020;4;24004.64;2
+Villa Urquiza;2020;4;27788.35;2
+Almagro;2021;1;27125.29;2
+Balvanera;2021;1;25216.11;2
+Belgrano;2021;1;31730.71;2
+Boedo;2021;1;26944.64;2
+Caballito;2021;1;27951.31;2
+Colegiales;2021;1;30065.98;2
+Flores;2021;1;26762.91;2
+Montserrat;2021;1;24145.8;2
+Núñez;2021;1;33998.91;2
+Palermo;2021;1;31838.94;2
+Parque Chacabuco;2021;1;;2
+Recoleta;2021;1;29454.53;2
+Retiro;2021;1;27146.14;2
+San Cristobal;2021;1;26173.2;2
+San Nicolás;2021;1;25843.27;2
+Villa Crespo;2021;1;29191.97;2
+Villa del Parque;2021;1;27883.88;2
+Villa Devoto;2021;1;;2
+Villa Urquiza;2021;1;31629.53;2
+Almagro;2021;2;31887.71;2
+Balvanera;2021;2;27593.01;2
+Belgrano;2021;2;37451.08;2
+Boedo;2021;2;29621.72;2
+Caballito;2021;2;33815.47;2
+Colegiales;2021;2;34913.48;2
+Flores;2021;2;29269.42;2
+Montserrat;2021;2;27947.48;2
+Núñez;2021;2;39756.14;2
+Palermo;2021;2;36089.5;2
+Parque Chacabuco;2021;2;31827.22;2
+Recoleta;2021;2;31988.67;2
+Retiro;2021;2;29921.3;2
+San Cristobal;2021;2;31383.41;2
+San Nicolás;2021;2;28316.52;2
+Villa Crespo;2021;2;33448.03;2
+Villa del Parque;2021;2;31559.17;2
+Villa Devoto;2021;2;;2
+Villa Urquiza;2021;2;38748.89;2
+Almagro;2021;3;35619.66;2
+Balvanera;2021;3;32449.28;2
+Belgrano;2021;3;39183.56;2
+Boedo;2021;3;33720.8;2
+Caballito;2021;3;36323.39;2
+Colegiales;2021;3;38349.66;2
+Flores;2021;3;32096.89;2
+Montserrat;2021;3;30832.22;2
+Núñez;2021;3;42834.83;2
+Palermo;2021;3;40852.71;2
+Parque Chacabuco;2021;3;37755.12;2
+Recoleta;2021;3;37239.45;2
+Retiro;2021;3;32794.72;2
+San Cristobal;2021;3;32011.73;2
+San Nicolás;2021;3;30923.44;2
+Villa Crespo;2021;3;36946.87;2
+Villa del Parque;2021;3;36219.65;2
+Villa Devoto;2021;3;35986.6;2
+Villa Urquiza;2021;3;40434.52;2
+Almagro;2021;4;38677.24;2
+Balvanera;2021;4;34886.08;2
+Belgrano;2021;4;42610.77;2
+Boedo;2021;4;;2
+Caballito;2021;4;40525.05;2
+Colegiales;2021;4;43044.35;2
+Flores;2021;4;37065.89;2
+Montserrat;2021;4;36411.93;2
+Núñez;2021;4;44184.21;2
+Palermo;2021;4;44379.9;2
+Parque Chacabuco;2021;4;38968.75;2
+Recoleta;2021;4;40478.53;2
+Retiro;2021;4;37960.13;2
+San Cristobal;2021;4;35967.75;2
+San Nicolás;2021;4;35814.65;2
+Villa Crespo;2021;4;38346.44;2
+Villa del Parque;2021;4;39444.41;2
+Villa Devoto;2021;4;;2
+Villa Urquiza;2021;4;45338.18;2
+Almagro;2022;1;46499.29;2
+Balvanera;2022;1;40493.55;2
+Belgrano;2022;1;50882.77;2
+Boedo;2022;1;;2
+Caballito;2022;1;44959.51;2
+Colegiales;2022;1;47482.98;2
+Flores;2022;1;41842.56;2
+Montserrat;2022;1;;2
+Núñez;2022;1;48418.86;2
+Palermo;2022;1;56335.75;2
+Parque Chacabuco;2022;1;46534.25;2
+Recoleta;2022;1;46868.52;2
+Retiro;2022;1;;2
+San Cristobal;2022;1;;2
+San Nicolás;2022;1;38166.82;2
+Villa Crespo;2022;1;46087.57;2
+Villa del Parque;2022;1;45612.15;2
+Villa Devoto;2022;1;45898.34;2
+Villa Urquiza;2022;1;47522.03;2
+Almagro;2022;2;51989.21;2
+Balvanera;2022;2;50767.87;2
+Belgrano;2022;2;61675.79;2
+Boedo;2022;2;;2
+Caballito;2022;2;54484.03;2
+Colegiales;2022;2;;2
+Flores;2022;2;48747.99;2
+Montserrat;2022;2;;2
+Núñez;2022;2;59365.46;2
+Palermo;2022;2;68829.98;2
+Parque Chacabuco;2022;2;;2
+Recoleta;2022;2;64213.33;2
+Retiro;2022;2;60648.95;2
+San Cristobal;2022;2;;2
+San Nicolás;2022;2;;2
+Villa Crespo;2022;2;53719.05;2
+Villa del Parque;2022;2;54580.2;2
+Villa Devoto;2022;2;57890.46;2
+Villa Urquiza;2022;2;61612.55;2
+Almagro;2022;3;66309.52;2
+Balvanera;2022;3;61351.03;2
+Belgrano;2022;3;75569.79;2
+Boedo;2022;3;;2
+Caballito;2022;3;65660.39;2
+Colegiales;2022;3;;2
+Flores;2022;3;59154.53;2
+Montserrat;2022;3;;2
+Núñez;2022;3;;2
+Palermo;2022;3;82528.21;2
+Parque Chacabuco;2022;3;;2
+Recoleta;2022;3;76319.46;2
+Retiro;2022;3;;2
+San Cristobal;2022;3;;2
+San Nicolás;2022;3;57007.84;2
+Villa Crespo;2022;3;67351.05;2
+Villa del Parque;2022;3;64838;2
+Villa Devoto;2022;3;;2
+Villa Urquiza;2022;3;72302.4;2
+Almagro;2022;4;75547.17;2
+Balvanera;2022;4;69298.51;2
+Belgrano;2022;4;87845.67;2
+Boedo;2022;4;;2
+Caballito;2022;4;76391.51;2
+Colegiales;2022;4;84180.38;2
+Flores;2022;4;72340.53;2
+Montserrat;2022;4;;2
+Núñez;2022;4;89032.29;2
+Palermo;2022;4;91677.38;2
+Parque Chacabuco;2022;4;;2
+Recoleta;2022;4;87681.84;2
+Retiro;2022;4;;2
+San Cristobal;2022;4;;2
+San Nicolás;2022;4;69475.46;2
+Villa Crespo;2022;4;85927.18;2
+Villa del Parque;2022;4;74145.74;2
+Villa Devoto;2022;4;72373.24;2
+Villa Urquiza;2022;4;84625.94;2
+Almagro;2023;1;95854.01;2
+Balvanera;2023;1;84217.57;2
+Belgrano;2023;1;108849.47;2
+Boedo;2023;1;;2
+Caballito;2023;1;97800.02;2
+Colegiales;2023;1;111998.76;2
+Flores;2023;1;78797.61;2
+Montserrat;2023;1;;2
+Núñez;2023;1;116031.75;2
+Palermo;2023;1;121402.47;2
+Parque Chacabuco;2023;1;;2
+Recoleta;2023;1;124723.76;2
+Retiro;2023;1;91030.19;2
+San Cristobal;2023;1;;2
+San Nicolás;2023;1;;2
+Villa Crespo;2023;1;94732.31;2
+Villa del Parque;2023;1;105571.91;2
+Villa Devoto;2023;1;108062.83;2
+Villa Urquiza;2023;1;104854.04;2
+Almagro;2023;2;129583.63;2
+Balvanera;2023;2;119430.89;2
+Belgrano;2023;2;144788.8;2
+Boedo;2023;2;;2
+Caballito;2023;2;130639.32;2
+Colegiales;2023;2;151484.99;2
+Flores;2023;2;120333.13;2
+Montserrat;2023;2;;2
+Núñez;2023;2;164326.6;2
+Palermo;2023;2;175218.17;2
+Parque Chacabuco;2023;2;;2
+Recoleta;2023;2;171374.84;2
+Retiro;2023;2;138815.22;2
+San Cristobal;2023;2;;2
+San Nicolás;2023;2;;2
+Villa Crespo;2023;2;135173.27;2
+Villa del Parque;2023;2;129718.16;2
+Villa Devoto;2023;2;;2
+Villa Urquiza;2023;2;160798.53;2
+Almagro;2023;3;210135.04;2
+Balvanera;2023;3;199738.44;2
+Belgrano;2023;3;265536.68;2
+Boedo;2023;3;;2
+Caballito;2023;3;209775.21;2
+Colegiales;2023;3;;2
+Flores;2023;3;201211.66;2
+Montserrat;2023;3;;2
+Núñez;2023;3;;2
+Palermo;2023;3;254205.08;2
+Parque Chacabuco;2023;3;;2
+Recoleta;2023;3;242708.21;2
+Retiro;2023;3;;2
+San Cristobal;2023;3;;2
+San Nicolás;2023;3;;2
+Villa Crespo;2023;3;;2
+Villa del Parque;2023;3;200000;2
+Villa Devoto;2023;3;;2
+Villa Urquiza;2023;3;240741.16;2
+Almagro;2023;4;303003.82;2
+Balvanera;2023;4;265779.57;2
+Belgrano;2023;4;421342.84;2
+Boedo;2023;4;271211.83;2
+Caballito;2023;4;300972.49;2
+Colegiales;2023;4;374036.76;2
+Flores;2023;4;261702.42;2
+Montserrat;2023;4;;2
+Núñez;2023;4;402941.18;2
+Palermo;2023;4;387605.63;2
+Parque Chacabuco;2023;4;;2
+Recoleta;2023;4;382896.18;2
+Retiro;2023;4;;2
+San Cristobal;2023;4;260497.93;2
+San Nicolás;2023;4;245340.58;2
+Villa Crespo;2023;4;362788.97;2
+Villa del Parque;2023;4;313801.53;2
+Villa Devoto;2023;4;286871.43;2
+Villa Urquiza;2023;4;361386.51;2
+Almagro;2024;1;345722.42;2
+Balvanera;2024;1;324648.26;2
+Belgrano;2024;1;405198.78;2
+Boedo;2024;1;335690.58;2
+Caballito;2024;1;348258.68;2
+Colegiales;2024;1;402997.99;2
+Flores;2024;1;329493.92;2
+Montserrat;2024;1;331108.16;2
+Núñez;2024;1;391291.07;2
+Palermo;2024;1;430332.78;2
+Parque Chacabuco;2024;1;372418.3;2
+Recoleta;2024;1;411906.68;2
+Retiro;2024;1;367122.37;2
+San Cristobal;2024;1;323578.6;2
+San Nicolás;2024;1;321647.14;2
+Villa Crespo;2024;1;384224.77;2
+Villa del Parque;2024;1;345027.79;2
+Villa Devoto;2024;1;335837.15;2
+Villa Urquiza;2024;1;391604;2
+Almagro;2024;2;378087.1;2
+Balvanera;2024;2;355478.6;2
+Belgrano;2024;2;439934.72;2
+Boedo;2024;2;355996.97;2
+Caballito;2024;2;382020.79;2
+Colegiales;2024;2;430897.52;2
+Flores;2024;2;351885.29;2
+Montserrat;2024;2;330275.1;2
+Núñez;2024;2;448799.08;2
+Palermo;2024;2;452619.85;2
+Parque Chacabuco;2024;2;373727.25;2
+Recoleta;2024;2;417649.01;2
+Retiro;2024;2;374929.04;2
+San Cristobal;2024;2;354624.84;2
+San Nicolás;2024;2;351625.62;2
+Villa Crespo;2024;2;402217.21;2
+Villa del Parque;2024;2;374331.14;2
+Villa Devoto;2024;2;390213.87;2
+Villa Urquiza;2024;2;415802.18;2
+Almagro;2024;3;432291.42;2
+Balvanera;2024;3;411773.59;2
+Belgrano;2024;3;469942.9;2
+Boedo;2024;3;412289.95;2
+Caballito;2024;3;428113.24;2
+Colegiales;2024;3;479506.86;2
+Flores;2024;3;393922.79;2
+Montserrat;2024;3;380690.34;2
+Núñez;2024;3;501372.95;2
+Palermo;2024;3;488829.8;2
+Parque Chacabuco;2024;3;429673.31;2
+Recoleta;2024;3;461100.72;2
+Retiro;2024;3;440049.1;2
+San Cristobal;2024;3;398790.32;2
+San Nicolás;2024;3;392756.57;2
+Villa Crespo;2024;3;450262.3;2
+Villa del Parque;2024;3;403168.77;2
+Villa Devoto;2024;3;437400.38;2
+Villa Urquiza;2024;3;497152.05;2
+Almagro;2024;4;472348.69;2
+Balvanera;2024;4;436516.87;2
+Belgrano;2024;4;514992.4;2
+Boedo;2024;4;451938.78;2
+Caballito;2024;4;481750.88;2
+Colegiales;2024;4;530781.84;2
+Flores;2024;4;437146.35;2
+Montserrat;2024;4;426701.76;2
+Núñez;2024;4;541725.66;2
+Palermo;2024;4;541875.26;2
+Parque Chacabuco;2024;4;461491.86;2
+Recoleta;2024;4;498186.22;2
+Retiro;2024;4;477718.65;2
+San Cristobal;2024;4;442865.4;2
+San Nicolás;2024;4;423840.64;2
+Villa Crespo;2024;4;502643.04;2
+Villa del Parque;2024;4;453312.19;2
+Villa Devoto;2024;4;475206.4;2
+Villa Urquiza;2024;4;534312.14;2
+Almagro;2025;1;531137.39;2
+Balvanera;2025;1;456727.05;2
+Belgrano;2025;1;575209.11;2
+Boedo;2025;1;501867.75;2
+Caballito;2025;1;551677.23;2
+Colegiales;2025;1;553062.63;2
+Flores;2025;1;488851.99;2
+Montserrat;2025;1;467900.43;2
+Núñez;2025;1;575411.89;2
+Palermo;2025;1;592684.51;2
+Parque Chacabuco;2025;1;515082.26;2
+Recoleta;2025;1;550686.29;2
+Retiro;2025;1;520262.07;2
+San Cristobal;2025;1;448357.96;2
+San Nicolás;2025;1;478004.28;2
+Villa Crespo;2025;1;524315.02;2
+Villa del Parque;2025;1;493068.31;2
+Villa Devoto;2025;1;564168.83;2
+Villa Urquiza;2025;1;573802;2
+Almagro;2025;2;573372.15;2
+Balvanera;2025;2;503044.38;2
+Belgrano;2025;2;617538.73;2
+Boedo;2025;2;541550.2;2
+Caballito;2025;2;577532.86;2
+Colegiales;2025;2;618747.51;2
+Flores;2025;2;532815.55;2
+Montserrat;2025;2;514509.54;2
+Núñez;2025;2;667645.58;2
+Palermo;2025;2;635842.01;2
+Parque Chacabuco;2025;2;561396.13;2
+Recoleta;2025;2;585681.17;2
+Retiro;2025;2;530849.78;2
+San Cristobal;2025;2;526801.49;2
+San Nicolás;2025;2;491467.98;2
+Villa Crespo;2025;2;604600.65;2
+Villa del Parque;2025;2;526201.98;2
+Villa Devoto;2025;2;605356.51;2
+Villa Urquiza;2025;2;617071.09;2
+Almagro;2025;3;597298.16;2
+Balvanera;2025;3;554379.15;2
+Belgrano;2025;3;663205.87;2
+Boedo;2025;3;589925.05;2
+Caballito;2025;3;612462.74;2
+Colegiales;2025;3;617654.5;2
+Flores;2025;3;545309.6;2
+Montserrat;2025;3;551064.45;2
+Núñez;2025;3;710560.48;2
+Palermo;2025;3;678280.71;2
+Parque Chacabuco;2025;3;608826.01;2
+Recoleta;2025;3;633739.09;2
+Retiro;2025;3;574406.59;2
+San Cristobal;2025;3;542044.79;2
+San Nicolás;2025;3;539809.36;2
+Villa Crespo;2025;3;633669.83;2
+Villa del Parque;2025;3;569004.92;2
+Villa Devoto;2025;3;613863.9;2
+Villa Urquiza;2025;3;662274.41;2

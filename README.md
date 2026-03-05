@@ -191,6 +191,7 @@ Para calcular estos registros debemos tomar únicamente los datos del 2025, por 
 
 Ahora sí, los barrios con menos aumentos porcentuales son los siguientes:
 
+
 3 ambientes:
 
 •	Barrio Villa Crespo con un 3.29%
@@ -198,6 +199,7 @@ Ahora sí, los barrios con menos aumentos porcentuales son los siguientes:
 •	Barrio Balvanera con un 6.75%
 
 •	Barrio Retiro con un 9.57%
+
 
 2 ambientes:
 
@@ -207,6 +209,7 @@ Ahora sí, los barrios con menos aumentos porcentuales son los siguientes:
 
 •	Barrio Caballito con un 11.02%
 
+
 1 ambiente:
 
 •	Barrio Balvanera con un 6.34%
@@ -215,7 +218,9 @@ Ahora sí, los barrios con menos aumentos porcentuales son los siguientes:
 
 •	Barrio Palermo con un 12.59%
 
+
 Ahora, los barrios con más aumentos porcentuales son los siguientes:
+
 
 3 ambientes:
 
@@ -225,6 +230,7 @@ Ahora, los barrios con más aumentos porcentuales son los siguientes:
 
 •	Barrio Palermo con un 17.79%
 
+
 2 ambientes:
 
 •	Barrio Núñez con un 23.49%
@@ -233,6 +239,7 @@ Ahora, los barrios con más aumentos porcentuales son los siguientes:
 
 •	Barrio San Cristóbal con un 20.90%
 
+
 1 ambiente:
 
 •	Barrio Belgrano con un 23.83%
@@ -240,6 +247,7 @@ Ahora, los barrios con más aumentos porcentuales son los siguientes:
 •	Barrio Núñez con un 19.56%
 
 •	Barrio Villa Crespo con un 15.93%
+
 
 Se evidencia que los barrios con menos variación porcentual se ubican al sur de la ciudad, sin embargo, no es una tendencia que sea netamente geográfica, también depende de otros factores como: crecimiento económico, desarrollo urbanístico y/o aumento de la demanda, que no son tomados en cuenta acá, pero que sirven para tomar contexto.
 
@@ -251,6 +259,7 @@ Para responder a esta pregunta debemos identificar los precios por ambientes, as
 
 Además, debemos tomar en cuenta el tercer trimestre del año 2025 ya que es la información más actualizada del dataset, por lo que estos valores pueden presentar variaciones a la fecha.
 
+
 3 ambientes más caros de la ciudad:
 
 •	Barrio Núñez con un valor promedio mensual de 1.127.910 ARS.
@@ -258,6 +267,7 @@ Además, debemos tomar en cuenta el tercer trimestre del año 2025 ya que es la 
 •	Barrio Palermo con un valor promedio mensual de 1.046.860 ARS.
 
 •	Barrio Villa Urquiza con un valor promedio mensual de 1.016.530 ARS.
+
 
 2 ambientes más caros de la ciudad:
 
@@ -267,6 +277,7 @@ Además, debemos tomar en cuenta el tercer trimestre del año 2025 ya que es la 
 
 •	Barrio Belgrano con un valor promedio mensual de 663.206 ARS.
 
+
 1 ambiente más caros de la ciudad:
 
 •	Barrio Belgrano con un valor promedio mensual de 508.881 ARS.
@@ -274,6 +285,7 @@ Además, debemos tomar en cuenta el tercer trimestre del año 2025 ya que es la 
 •	Barrio Núñez con un valor promedio mensual de 495.716 ARS.
 
 •	Barrio Palermo con un valor promedio mensual de 491.732 ARS.
+
 
 3 ambientes más baratos de la ciudad:
 
@@ -283,6 +295,7 @@ Además, debemos tomar en cuenta el tercer trimestre del año 2025 ya que es la 
 
 •	Barrio Flores con un valor promedio mensual de 879.817 ARS.
 
+
 2 ambientes más baratos de la ciudad:
 
 •	Barrio San Nicolás con un valor promedio mensual de 539.809 ARS.
@@ -291,6 +304,7 @@ Además, debemos tomar en cuenta el tercer trimestre del año 2025 ya que es la 
 
 •	Barrio Flores con un valor promedio mensual de 545.310 ARS.
 
+
 1 ambiente más baratos de la ciudad:
 
 •	Barrio Balvanera con un valor promedio mensual de 405.134 ARS.
@@ -298,6 +312,7 @@ Además, debemos tomar en cuenta el tercer trimestre del año 2025 ya que es la 
 •	Barrio Flores con un valor promedio mensual de 418.243 ARS.
 
 •	Barrio San Nicolás con un valor promedio mensual de 431.199 ARS.
+
 
 Se observa que los barrios más caros tienden a concentrarse en el norte de la ciudad, mientras que los más accesibles se ubican mayormente en zonas centrales y del oeste.
 

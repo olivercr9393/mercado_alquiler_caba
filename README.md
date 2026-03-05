@@ -13,10 +13,15 @@ Este análisis busca ser de ayuda para quienes quieran comprender cómo se ha tr
 El objetivo principal es analizar la evolución de los precios de alquiler de departamentos de 1, 2 y 3 ambientes en CABA y responder las siguientes preguntas:
 
 ¿Cómo evolucionaron los precios de alquiler de unidades de 1, 2 y 3 ambientes en CABA en el tiempo?
+
 ¿Cuánta diferencia de precio existe entre los distintos ambientes ofrecidos para departamentos?
+
 ¿Qué tipos de inmuebles son los más publicados y cuáles dominan la oferta?
+
 ¿Cuáles son los barrios que más han aumentado en el tiempo?
+
 ¿Cuáles son los barrios con más y menor variación porcentual en los precios en 2025?
+
 ¿Cuáles son hoy los barrios más caros y más baratos para alquilar?
 
 El foco de esta investigación no está en solo describir precios, sino en comprender la dinámica estructural del mercado, de esta manera cualquier persona puede sacar conclusiones en base a sus preferencias.
@@ -26,9 +31,13 @@ El foco de esta investigación no está en solo describir precios, sino en compr
 Los datos públicos oficiales utilizados en este proyecto provienen del Instituto De Estadística y Censos de la Ciudad Autónoma de Buenos Aires (IDECBA) con un historial desde 2018 a 2025, los cuales se construyen a partir de datos de los principales portales inmobiliarios, para fines de esta investigación nos basamos en:
 
 •	Precio promedio de publicación de departamentos en alquiler de 1, 2 y 3 ambientes usados y a estrenar.
+
 •	Distribución porcentual de departamentos publicados en alquiler usados y a estrenar por cantidad de ambientes y por tipo.
+
 •	Precio promedio de publicación de departamentos en alquiler de 1 ambiente usados por barrio.
+
 •	Precio promedio de publicación de departamentos en alquiler de 2 ambientes usados por barrio.
+
 •	Precio promedio de publicación de departamentos en alquiler de 3 ambientes usados por barrio.
 
 Nota: Los datos representan precios de publicación y no precios efectivos de cierre.
@@ -73,7 +82,9 @@ En esta etapa se exploraron patrones generales, diferencias territoriales y comp
 Para poder obtener una evolución en los precios de alquiler en el tiempo tomamos los valores desde el inicio del periodo hasta el último, calculamos el porcentaje de aumento y así obtuvimos el porcentaje de crecimiento nominal y los hallazgos principales fueron los siguientes:
 
 •	Los alquileres de 1 ambientes mostraron un crecimiento nominal acumulado del 6476,55% desde 2018 al 2025.
+
 •	Los alquileres de 2 ambientes mostraron un crecimiento nominal acumulado del 6479,38% desde 2018 al 2025.
+
 •	Los alquileres de 3 ambientes mostraron un crecimiento nominal acumulado del 6159,01% desde 2018 al 2025.
 
 Estos resultados evidencian un crecimiento sostenido entre ambientes en el mercado de alquiler, este aumento nominal impactó de forma estructural a todo el mercado y no solo a un segmento en específico. En todos los ambientes hubo un incremento parecido, se puede explicar este fenómeno tomando en cuenta la inflación acumulada, pero no es el objetivo de este proyecto.
@@ -83,13 +94,17 @@ Estos resultados evidencian un crecimiento sostenido entre ambientes en el merca
 Para saber la diferencia de precios entre los distintos ambientes primero vamos a hacer un promedio de los precios de alquileres de los distintos ambientes en el último año de análisis (2025) y los hallazgos que encontramos fueron:
 
 •	Promedio 1 ambiente: 449.837 ARS.
+
 •	Promedio 2 ambientes: 606.497 ARS.
+
 •	Promedio 3 ambientes: 913.863 ARS.
 
 Tras estos promedios, podemos calcular la diferencia de precios entre ambientes, la cual nos indica lo siguiente:
 
 •	1 Ambiente vs 2 ambientes: 156.660 ARS de diferencia, es decir un 34.83%
+
 •	2 Ambientes vs 3 ambientes: 307.366 ARS de diferencia, es decir un 50.68%
+
 •	3 Ambientes vs 1 ambiente: 464.026 ARS de diferencia, es decir un 103.15%
 
 Se usó el último año en esta respuesta porque permite analizar la situación actual del mercado, evitando comparaciones intertemporales afectadas por inflación acumulada.
@@ -105,8 +120,11 @@ Los incrementos presentados corresponden a variaciones nominales entre ambientes
 Para responder esta pregunta debemos saber cuáles han sido los inmuebles que más han dominado la oferta históricamente (2018-2025), en ese sentido, nos encontramos que:
 
 •	1 ambiente: 25.38%
+
 •	2 ambientes: 42.52%
+
 •	3 ambientes: 23.09%
+
 •	4 y 5 ambientes: 9.02%
 
 Tras estos resultados, también encontramos que el 89.59% de las publicaciones fueron de departamentos usados, mientras que el 10.41% fueron nuevos.
@@ -114,8 +132,11 @@ Tras estos resultados, también encontramos que el 89.59% de las publicaciones f
 Pero, como en la respuesta anterior, necesitamos la situación actual del mercado para evitar distorsiones por distintos indicadores económicos, por lo que al analizar el 2025 quedamos así:
 
 •	1 ambiente: 32.8%
+
 •	2 ambientes: 42.16%
+
 •	3 ambientes: 19.29%
+
 •	4 y 5 ambientes: 5.76%
 
 Además, encontramos que en el año 2025 el 89.12% de publicaciones fueron departamentos usados, mientras que el 10.88% fueron nuevos.
@@ -135,18 +156,27 @@ Para responder a esta pregunta debemos tomar el precio promedio inicial del prim
 Para los distintos ambientes los resultados son los siguientes:
 
 3 ambientes:
+
 •	Barrio Flores con un aumento de 6923,71%
+
 •	Barrio Núñez con un aumento de 6511.00%
+
 •	Barrio Caballito con un aumento de 6026.05%
 
 2 ambientes:
+
 •	Barrio Villa Devoto aumentó un 6507.00%
+
 •	Barrio Caballito aumentó un 6446.02%
+
 •	Barrio Villa del Parque aumentó un 6421.80%
 
 1 ambiente:
+
 •	Barrio Belgrano aumentó un 6190.86%
+
 •	Barrio Flores aumentó un 6125.24%
+
 •	Barrio Villa Urquiza aumentó un 6036.48%
 
 Se consideraron únicamente barrios con datos completos en ambos extremos del período.
@@ -162,35 +192,53 @@ Para calcular estos registros debemos tomar únicamente los datos del 2025, por 
 Ahora sí, los barrios con menos aumentos porcentuales son los siguientes:
 
 3 ambientes:
+
 •	Barrio Villa Crespo con un 3.29%
+
 •	Barrio Balvanera con un 6.75%
+
 •	Barrio Retiro con un 9.57%
 
-2 ambientes
+2 ambientes:
+
 •	Barrio Villa Devoto con un 8.81%
+
 •	Barrio Retiro con un 10.41%
+
 •	Barrio Caballito con un 11.02%
 
-1 ambiente
+1 ambiente:
+
 •	Barrio Balvanera con un 6.34%
+
 •	Barrio Almagro con un 12.30%
+
 •	Barrio Palermo con un 12.59%
 
 Ahora, los barrios con más aumentos porcentuales son los siguientes:
 
 3 ambientes:
+
 •	Barrio Núñez con un 24.18%
+
 •	Barrio Caballito con un 17.89%
+
 •	Barrio Palermo con un 17.79%
 
 2 ambientes:
+
 •	Barrio Núñez con un 23.49%
+
 •	Barrio Balvanera con un 21.38%
+
 •	Barrio San Cristóbal con un 20.90%
 
 1 ambiente:
+
 •	Barrio Belgrano con un 23.83%
+
 •	Barrio Núñez con un 19.56%
+
 •	Barrio Villa Crespo con un 15.93%
 
 Se evidencia que los barrios con menos variación porcentual se ubican al sur de la ciudad, sin embargo, no es una tendencia que sea netamente geográfica, también depende de otros factores como: crecimiento económico, desarrollo urbanístico y/o aumento de la demanda, que no son tomados en cuenta acá, pero que sirven para tomar contexto.
@@ -204,33 +252,51 @@ Para responder a esta pregunta debemos identificar los precios por ambientes, as
 Además, debemos tomar en cuenta el tercer trimestre del año 2025 ya que es la información más actualizada del dataset, por lo que estos valores pueden presentar variaciones a la fecha.
 
 3 ambientes más caros de la ciudad:
+
 •	Barrio Núñez con un valor promedio mensual de 1.127.910 ARS.
+
 •	Barrio Palermo con un valor promedio mensual de 1.046.860 ARS.
+
 •	Barrio Villa Urquiza con un valor promedio mensual de 1.016.530 ARS.
 
 2 ambientes más caros de la ciudad:
+
 •	Barrio Núñez con un valor promedio mensual de 710.560 ARS.
+
 •	Barrio Palermo con un valor promedio mensual de 678.281 ARS.
+
 •	Barrio Belgrano con un valor promedio mensual de 663.206 ARS.
 
 1 ambiente más caros de la ciudad:
+
 •	Barrio Belgrano con un valor promedio mensual de 508.881 ARS.
+
 •	Barrio Núñez con un valor promedio mensual de 495.716 ARS.
+
 •	Barrio Palermo con un valor promedio mensual de 491.732 ARS.
 
 3 ambientes más baratos de la ciudad:
+
 •	Barrio Balvanera con un valor promedio mensual de 803.412 ARS.
+
 •	Barrio Retiro con un valor promedio mensual de 854.611 ARS.
+
 •	Barrio Flores con un valor promedio mensual de 879.817 ARS.
 
 2 ambientes más baratos de la ciudad:
+
 •	Barrio San Nicolás con un valor promedio mensual de 539.809 ARS.
+
 •	Barrio San Cristóbal con un valor promedio mensual de 542.045 ARS.
+
 •	Barrio Flores con un valor promedio mensual de 545.310 ARS.
 
 1 ambiente más baratos de la ciudad:
+
 •	Barrio Balvanera con un valor promedio mensual de 405.134 ARS.
+
 •	Barrio Flores con un valor promedio mensual de 418.243 ARS.
+
 •	Barrio San Nicolás con un valor promedio mensual de 431.199 ARS.
 
 Se observa que los barrios más caros tienden a concentrarse en el norte de la ciudad, mientras que los más accesibles se ubican mayormente en zonas centrales y del oeste.
@@ -242,11 +308,17 @@ Nota: esta información puede ser relevante para aquellas personas que deseen bu
 Los hallazgos más relevantes son:
 
 •	Se observa una tendencia general de crecimiento en los precios de alquiler en los distintos ambientes durante el periodo analizado, con un 6.400% de crecimiento promedio en los precios.
+
 •	Hay una marcada y notable diferencia entre los precios de departamentos de distintos ambientes, la mayor brecha está entre departamentos de 3 y 1 ambiente.
+
 •	Los departamentos de 2 ambientes son los que dominan el mercado con un 41% de la oferta, mientras que los departamentos de 4 y 5 ambientes tienen el menor rango de participación. La tendencia de tipos de departamentos que más ha aumentado es la de 1 ambientes, mientras que la que más se ha reducido es la de 4 y 5 ambientes.
+
 •	La volatilidad se evidencia no solo en el nivel de precios, sino también en la variación trimestral, con mayores amplitudes desde 2022, en especial para los 1 ambientes, lo que nos indica que la demanda y la oferta por estos departamentos va en aumento.
+
 •	Se observa que en el 2025 hubo una desaceleración en los aumentos de los precios con respecto a años anteriores.
+
 •	Hay una marcada segmentación territorial donde se divisan los barrios más caros y los más baratos.
+
 •	El mercado presenta una expansión nominal acelerada, con una estructura de precios que mantiene relaciones proporcionales estables entre ambientes.
 
 El mercado de alquiler en CABA muestra una recomposición desigual, si bien el crecimiento acumulado en los precios de alquiler fue similar entre ambientes la variación porcentual anual en 2025 mostró diferencias territoriales significativas entre barrios. Podemos concluir que este mercado ha estado muy cambiante en los últimos años y se ha mantenido una tendencia de aumento generalizado de precios, reflejando un escenario altamente dinámico y volátil.
@@ -256,10 +328,15 @@ El mercado de alquiler en CABA muestra una recomposición desigual, si bien el c
 Como estos datos son extraídos de portales inmobiliarios (Argenprop) y recogidos por el IDECBA nos encontramos con las siguientes limitaciones:
 
 •	Los precios analizados corresponden a valores de publicación, pero no son precios finales de cierre, que son muy cambiantes.
+
 •	No se incorporan variables macroeconómicas externas (inflación, salarios). Se recomienda interpretar los resultados considerando el contexto macroeconómico.
+
 •	El análisis por barrio es exclusivamente con departamentos (1, 2 y 3 ambientes) y no incluye otros tipos.
+
 •	Algunos datos del último trimestre del 2025 no están disponibles.
+
 •	Algunos datos en general en 2025 pueden presentar pequeñas variaciones en un futuro debido al retraso de la actualización en la página de extracción de los datos.
+
 •	Para calcular el promedio en el precio se usaron medidas estándares para cada ambiente, esto quiere decir que los valores pueden cambiar según la superficie total (m2) en cada barrio.
 
 Estas limitaciones no invalidan el análisis, pero deben ser resaltadas para interpretar de una mejor manera el resultado.
@@ -267,15 +344,23 @@ Estas limitaciones no invalidan el análisis, pero deben ser resaltadas para int
 8. Próximos pasos
 
 •	Incorporar datos de ingresos promedio para analizar la accesibilidad al alquiler.
+
 •	Comparar al mercado de alquiler vs compra
+
 •	Analizar el impacto de cambios en leyes, demandas, trabas burocráticas, inflación…
+
 •	Profundizar el análisis espacial con mapas detallados (movilidad urbana, zonas económicas, etc…)
+
 •	Aplicación de modelos predictivos para estimación de precios futuros.
 
 9. Herramientas
+
 •	Excel y Power Query (Limpieza)
+
 •	SQL (consultas y agregaciones)
+
 •	Power BI (dashboard y visualización)
+
 •	GitHub (documentación y versionado)
 
 10. Nota final.
